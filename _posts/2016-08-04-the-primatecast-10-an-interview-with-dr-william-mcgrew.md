@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T14:31:58.991Z'
+datePublished: '2016-08-04T14:38:49.307Z'
 sourcePath: _posts/2016-08-04-the-primatecast-10-an-interview-with-dr-william-mcgrew.md
 isBasedOnUrl: 'http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/william-mcgrew'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T14:31:57.932Z'
+dateModified: '2016-08-04T14:38:48.473Z'
 title: 'The PrimateCast #10: An Interview with Dr. William McGrew'
 app_links: []
 publisher:
@@ -39,4 +39,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74f4197390907f8716c673f9b7e86f13/noop.jpg?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fimagecache%2Fbanner%2Fbanner%2Fbanner-applications.jpg" /><h1>The PrimateCast #10: An Interview with Dr. William McGrew</h1><p>In the second installment of our podcast series from the conference on the Evolutionary Origins of the Human Mind at the International Institute for Advanced Studies (IIAS), we spoke with Dr. William</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2025b50-a6f9-46c5-a95b-a150d02d6025.jpg)
