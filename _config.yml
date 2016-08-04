@@ -11,6 +11,11 @@ color:
     - '#F4EEA9'
     - '#F4F482'
 layout_spectrum: 0.7111119222827256
+author:
+  name: Andrew MacIntosh
+  email: theprimatecast@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a0cced3-44fe-45dc-a7d0-8caed1159938.png
 name: The PrimateCast
-title: Welcome to The PrimateCast
+title: 'Ladies and Gentlemen, The PrimateCast'
 description: a podcast dedicated to the study and conservation of primates
