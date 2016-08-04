@@ -22,12 +22,12 @@ description: >-
   Primatology
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/crickette-sanzL'
+isBasedOnUrl: 'http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/frans-de-waalRL'
 title: >-
   Podcasts - CICASP | Center for International Collaboration and Advanced
   Studies in Primatology
-datePublished: '2016-08-04T13:56:23.713Z'
-dateModified: '2016-08-04T13:12:31.937Z'
+datePublished: '2016-08-04T13:56:23.720Z'
+dateModified: '2016-08-04T13:11:28.660Z'
 via: {}
 starred: false
 sourcePath: >-
