@@ -1,0 +1,14 @@
+layout_spectrum: 0.7111119222827256
+typography_spectrum: 0.29562222165986896
+color:
+  brandStrength: 0.017263787100091577
+  lightness: 0.23749575670808554
+  saturation: 0.9096645524259657
+  rhythmicContrast: 0.10368687775917351
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: The PrimateCast
