@@ -1,4 +1,3 @@
-layout_spectrum: 0.7111119222827256
 typography_spectrum: 0.29562222165986896
 color:
   brandStrength: 0.017263787100091577
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.7111119222827256
 name: The PrimateCast
+title: Welcome to The PrimateCast
 description: a podcast dedicated to the study and conservation of primates
