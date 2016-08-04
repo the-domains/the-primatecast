@@ -1,19 +1,19 @@
-typography_spectrum: 0.9850454074330628
+typography_spectrum: 0.29562222165986896
 color:
-  brandStrength: 0.27312760683707893
-  lightness: 0.5716896632220596
-  saturation: 0.5699611350428313
-  rhythmicContrast: 0.28887924179434776
+  brandStrength: 0.017263787100091577
+  lightness: 0.23749575670808554
+  saturation: 0.9096645524259657
+  rhythmicContrast: 0.10368687775917351
   brandColors:
-    - '#B4AF91'
-    - '#787746'
-    - '#40411E'
-    - '#32331D'
-    - '#C03000'
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/871deeb4-8935-4a6f-802a-939f0adc9999.png
-layout_spectrum: 0.5884634393732995
+layout_spectrum: 0.7111119222827256
 analytics:
   google: UA-81928828-1
   facebook: '1193980147299469'
@@ -23,6 +23,10 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a0cced3-44fe-45dc-a7d0-8caed1159938.png
 name: The PrimateCast
+navigation:
+  - name: The PrimateCast @ CICASP
+    url: 'http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca89a89f-ee40-41b0-8895-2ea956193807.png
 title: 'Ladies and Gentlemen, The PrimateCast'
