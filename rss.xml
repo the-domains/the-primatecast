@@ -4,7 +4,7 @@
         <description><![CDATA[Ladies and Gentlemen, The PrimateCast]]></description>
         <link>https://thegrid.ai/the-primatecast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 04:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 05:35:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-primatecast/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The PrimateCast | A new podcast from CICASP]]></title>
@@ -40,13 +40,6 @@
             <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/ralph-adolphs</link>
             <guid isPermaLink="false">fe44e3be-17d4-4a7a-8e05-81c07ab4e2c8</guid>
             <pubDate>Thu, 04 Aug 2016 03:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome to The PrimateCast]]></title>
-            <description><![CDATA[<article><h1>Welcome to The PrimateCast</h1><p>CICASP | Center for International Collaboration and Advanced Studies in Primatology</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16fc7de0-40fb-485a-b05e-3e4c13a11710.png"></article>]]></description>
-            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts</link>
-            <guid isPermaLink="false">bb8d70ca-91e9-4c52-a6dd-85d002a37417</guid>
-            <pubDate>Thu, 04 Aug 2016 03:24:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
