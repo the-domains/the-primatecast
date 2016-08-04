@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-04T14:30:23.202Z'
+datePublished: '2016-08-04T14:46:52.367Z'
 sourcePath: _posts/2016-08-04-the-primatecast-35-ninaand039s-passion-an-earth-day-2015.md
 isBasedOnUrl: 'http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/ninas-passion'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-04T14:30:22.352Z'
+dateModified: '2016-08-04T14:46:51.544Z'
 title: >-
   The PrimateCast #35: Nina&#039;s Passion - an Earth Day 2015 special about
   finding your passion for nature
@@ -33,7 +33,7 @@ description: >-
   rare opportunity this week to enlist a 16 year old high school student intern
   to produce a podcast of her very own. We are
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
