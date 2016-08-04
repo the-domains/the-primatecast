@@ -27,11 +27,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/jane-goodall'
 title: 'The PrimateCast #8: An Interview with Dr. Jane Goodall'
-datePublished: '2016-08-04T13:56:23.720Z'
-dateModified: '2016-08-04T13:07:39.476Z'
+datePublished: '2016-08-04T14:08:04.740Z'
+dateModified: '2016-08-04T14:08:04.170Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-the-primatecast-8-an-interview-with-dr-jane-goodall.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
