@@ -1,7 +1,7 @@
 ---
 author: []
 related:
-  - score: 0.6124334335
+  - score: 0.6083557606000001
     description: >-
       Listen up, makers. :). Discover 20 curated products like The Pitch and
       StartUp Podcast Season 2 about 20 Great Podcasts for Entrepreneurs
@@ -22,14 +22,14 @@ publisher:
 keywords:
   - podcast
   - selected
-  - biro
+  - nackoney
+  - goodall
   - students
-  - dora
-  - tetsuro
+  - primates
+  - tomoaki
   - interviews
-  - matsuzawa
-  - waal
   - primatecast
+  - janet
 description: >-
   In this installment of The PrimateCast, we asked students of Kyoto
   University's Primate Research Institute to select their favorite moments from
@@ -40,12 +40,12 @@ description: >-
 inLanguage: en
 app_links: []
 isBasedOnUrl: >-
-  http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/student-selections-part-ii-research
+  http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/primatecast-18-podcast-review-through-student-selections-part-i-conservation
 title: >-
-  The PrimateCast #18: A Podcast Review through Student Selections Part II -
-  Research
-datePublished: '2016-08-04T13:56:23.704Z'
-dateModified: '2016-08-04T13:16:49.044Z'
+  The PrimateCast #18: A Podcast Review through Student Selections Part I -
+  Conservation
+datePublished: '2016-08-04T13:56:23.709Z'
+dateModified: '2016-08-04T13:16:19.710Z'
 via: {}
 starred: false
 sourcePath: >-
@@ -57,4 +57,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The PrimateCast #18: A Podcast Review through Student Selections Part II - Research</h1><p>In this installment of The PrimateCast, we asked students of Kyoto University's Primate Research Institute to select their favorite moments from the first year and a half plus of the podcast. We then interviewed each student, asking them to tell us about their research interests, how they got into the field of primate research and why they made their respective podcast selections.</p><img src="http://www.cicasp.pri.kyoto-u.ac.jp/sites/default/files/news/student_podcast_cover1_0.png" /></article>
+<article style=""><h1>The PrimateCast #18: A Podcast Review through Student Selections Part I - Conservation</h1><p>In this installment of The PrimateCast, we asked students of Kyoto University's Primate Research Institute to select their favorite moments from the first year and a half plus of the podcast. We then interviewed each student, asking them to tell us about their research interests, how they got into the field of primate research and why they made their respective podcast selections.</p><img src="http://www.cicasp.pri.kyoto-u.ac.jp/sites/default/files/news/student_podcast_cover1.png" /></article>
