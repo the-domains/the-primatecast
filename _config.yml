@@ -1,4 +1,4 @@
-typography_spectrum: 0.29562222165986896
+typography_spectrum: 0.22958764107897878
 color:
   brandStrength: 0.017263787100091577
   lightness: 0.23749575670808554
@@ -13,7 +13,7 @@ color:
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/871deeb4-8935-4a6f-802a-939f0adc9999.png
-layout_spectrum: 0.7111119222827256
+layout_spectrum: 0.9754406192805618
 author:
   name: Andrew MacIntosh
   email: theprimatecast@gmail.com
