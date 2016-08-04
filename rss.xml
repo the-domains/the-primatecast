@@ -4,7 +4,7 @@
         <description><![CDATA[Ladies and Gentlemen, The PrimateCast]]></description>
         <link>http://theprimatecast.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 14:32:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 14:32:48 GMT</lastBuildDate>
         <atom:link href="http://theprimatecast.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The PrimateCast #8: An Interview with Dr. Jane Goodall]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/jane-goodall</link>
             <guid isPermaLink="false">646d8634-6ba0-4dac-a915-6bca5928da65</guid>
             <pubDate>Thu, 04 Aug 2016 14:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The PrimateCast #16: An Interview with Dr. Lisa Jones-Engel]]></title>
+            <description><![CDATA[<article><h1>The PrimateCast #16: An Interview with Dr. Lisa Jones-Engel</h1><p>In November of 2012, we sat down with Dr. Lisa Jones-Engel, Senior Research Scientist at the Washington National Primate Research Center and lecturer at the University of Washington. Check out the int</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74f4197390907f8716c673f9b7e86f13/noop.jpg?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fimagecache%2Fbanner%2Fbanner%2Fbanner-applications.jpg"></article>]]></description>
+            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/lisa-jones-engel</link>
+            <guid isPermaLink="false">93ed063e-8004-4414-b6a1-2cd156f08213</guid>
+            <pubDate>Thu, 04 Aug 2016 14:32:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The PrimateCast #10: An Interview with Dr. William McGrew]]></title>
@@ -42,13 +49,6 @@
             <pubDate>Thu, 04 Aug 2016 13:56:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The PrimateCast #2: An Interview with CICASP]]></title>
-            <description><![CDATA[<article><h1>The PrimateCast #2: An Interview with CICASP</h1><p>In this edition of The PrimateCast, we welcome Drs. Ikuma Adachi, Fred Bercovitch, and David Hill to the studio to discuss the CICASP program from top to bottom. In addition to discussing the program</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f1b1c75bb557135bf56462633567bb5/noop.jpg?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fnews-cicasp.jpg"></article>]]></description>
-            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/cicasp/primatecast-2-interview-cicasp</link>
-            <guid isPermaLink="false">d2a30f57-1311-4776-8c01-e40a1ee8bad0</guid>
-            <pubDate>Thu, 04 Aug 2016 13:56:23 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The PrimateCast (IntroductionCast): Your audio guide to The PrimateCast, its hosts, and its mission]]></title>
             <description><![CDATA[<article><h1>The PrimateCast (IntroductionCast): Your audio guide to The PrimateCast, its hosts, and its mission</h1><p>In the very first installment of The PrimateCast, your hosts Andrew MacIntosh and Chris Martin introduce the new podcast series and discuss some of the features we hope to develop as the series progre</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f893db1884bdef2c7528ec124f242441/noop.jpg?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fl1000813.jpg"></article>]]></description>
             <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/primatecast-introductioncast-your-guide-primatecast-its-hosts-and-its-mission</link>
@@ -63,17 +63,17 @@
             <pubDate>Thu, 04 Aug 2016 13:56:23 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The PrimateCast #2: An Interview with CICASP]]></title>
+            <description><![CDATA[<article><h1>The PrimateCast #2: An Interview with CICASP</h1><p>In this edition of The PrimateCast, we welcome Drs. Ikuma Adachi, Fred Bercovitch, and David Hill to the studio to discuss the CICASP program from top to bottom. In addition to discussing the program</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f1b1c75bb557135bf56462633567bb5/noop.jpg?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fnews-cicasp.jpg"></article>]]></description>
+            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/cicasp/primatecast-2-interview-cicasp</link>
+            <guid isPermaLink="false">d2a30f57-1311-4776-8c01-e40a1ee8bad0</guid>
+            <pubDate>Thu, 04 Aug 2016 13:56:23 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The PrimateCast #11: An Interview with Dr. Josep Call]]></title>
             <description><![CDATA[<article><h1>The PrimateCast #11: An Interview with Dr. Josep Call</h1><p>In the third installment of our podcast series from the conference on the Evolutionary Origins of the Human Mind at the International Institute for Advanced Studies (IIAS), we spoke with Dr. Josep Cal</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b3e1645c339226c99e47afdbb0d551ef/noop.jpg?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fcall_gorilla_rahmen.jpg"></article>]]></description>
             <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/josep-call</link>
             <guid isPermaLink="false">ff85bdae-4b3a-46a1-80c8-ae358edd7c04</guid>
-            <pubDate>Thu, 04 Aug 2016 13:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The PrimateCast #4: An Interview with Dr. Heidi Lyn]]></title>
-            <description><![CDATA[<article><h1>The PrimateCast #4: An Interview with Dr. Heidi Lyn</h1><p>The PrimateCast continues to roll on into the summer as Chris and Andrew chat in this installment with Dr. Heidi Lyn of the University of Southern Mississipi. Topics covered include the language capab</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9148db3c932b78c0bdda4afafcf62b5e/noop.png?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fheidi-lyn-phd_0.png"></article>]]></description>
-            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/heidi-lyn</link>
-            <guid isPermaLink="false">782e8cfa-6411-4ca2-889c-b5e6715d5405</guid>
             <pubDate>Thu, 04 Aug 2016 13:56:23 GMT</pubDate>
         </item>
     </channel>
