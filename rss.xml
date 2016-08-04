@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Welcome to The PrimateCast]]></title>
         <description><![CDATA[Welcome to The PrimateCast]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-primatecast/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 03:24:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 03:27:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-primatecast/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The PrimateCast #45: An Interview with Dr. Ralph Adolphs]]></title>
+            <description><![CDATA[<article><h1>The PrimateCast #45: An Interview with Dr. Ralph Adolphs</h1><p>The PrimateCast interviews Dr. Ralph Adolphs about emotion, the social brain, and the approaches he and his lab are using to understand these phenomena. Dr. Ralph Adolphs is Bren Professor of Psychology and Neuroscience and Professor of Biology at the California Institute of Technology.</p><img src="http://www.cicasp.pri.kyoto-u.ac.jp/sites/default/files/news/adolphs.jpg"></article>]]></description>
+            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/ralph-adolphs</link>
+            <guid isPermaLink="false">fe44e3be-17d4-4a7a-8e05-81c07ab4e2c8</guid>
+            <pubDate>Thu, 04 Aug 2016 03:27:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome to The PrimateCast]]></title>
             <description><![CDATA[<article><h1>Welcome to The PrimateCast</h1><p>CICASP | Center for International Collaboration and Advanced Studies in Primatology</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16fc7de0-40fb-485a-b05e-3e4c13a11710.png"></article>]]></description>
