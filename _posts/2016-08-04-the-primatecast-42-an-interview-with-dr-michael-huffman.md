@@ -30,11 +30,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/mike-huffman'
 title: 'The PrimateCast #42: An Interview with Dr. Michael Huffman'
-datePublished: '2016-08-04T13:56:23.695Z'
-dateModified: '2016-08-04T13:52:08.096Z'
+datePublished: '2016-08-04T14:43:46.191Z'
+dateModified: '2016-08-04T14:43:45.469Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-the-primatecast-42-an-interview-with-dr-michael-huffman.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
