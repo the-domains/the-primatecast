@@ -4,7 +4,7 @@
         <description><![CDATA[Ladies and Gentlemen, Welcome to The PrimateCast]]></description>
         <link>http://theprimatecast.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 14:57:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 00:39:25 GMT</lastBuildDate>
         <atom:link href="http://theprimatecast.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The PrimateCast #35: Nina&#039;s Passion - an Earth Day 2015 special about finding your passion for nature]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/jane-goodall</link>
             <guid isPermaLink="false">646d8634-6ba0-4dac-a915-6bca5928da65</guid>
             <pubDate>Thu, 04 Aug 2016 14:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The PrimateCast #41: An Interview with Dr. Jae Chun Choe]]></title>
+            <description><![CDATA[<article><h1>The PrimateCast #41: An Interview with Dr. Jae Chun Choe</h1><p>South Korean behavioral ecologist, science educator, biodiversity conservationist and best-selling author Dr. Jae Chun Choe joins us on The PrimateCast to talk about his role in the development of evolutionary biology and behavioral ecology in Korea. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4ea3dd392a5859261ff6106590482fd7/noop.jpg?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fjae-choe-image2.jpg"></article>]]></description>
+            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/jae-choe</link>
+            <guid isPermaLink="false">85cd1de8-e106-4fee-8a44-77f287527697</guid>
+            <pubDate>Fri, 05 Aug 2016 00:39:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The PrimateCast #9: An Interview with Dr. Frans de Waal]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/Tetsuro%20Matsuzawa</link>
             <guid isPermaLink="false">7b35f957-27fd-4363-bd37-161e277706c6</guid>
             <pubDate>Thu, 04 Aug 2016 14:27:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The PrimateCast #3: An Interview with Dr. Laurence Anthony]]></title>
-            <description><![CDATA[<article><h1>The PrimateCast #3: An Interview with Dr. Laurence Anthony</h1><p>After a temporary hiatus during Chris' expedition to West Africa, The PrimateCast is back and looking forward to a great summer packed with interviews that we've racked up over the past months. In tod</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44a2cf35cbc0ebb28b210f273dfacbeb/noop.jpg?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fanthony1_0.jpg"></article>]]></description>
-            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/laurence-anthony</link>
-            <guid isPermaLink="false">6b45f257-4305-49df-a5fe-e6c26cad371b</guid>
-            <pubDate>Thu, 04 Aug 2016 13:56:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
