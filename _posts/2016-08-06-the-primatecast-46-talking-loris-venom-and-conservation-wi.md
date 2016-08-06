@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-06T13:56:53.757Z'
+datePublished: '2016-08-06T14:02:18.605Z'
 isBasedOnUrl: 'http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/anna-nekaris'
 keywords:
   - primatecast
@@ -15,7 +15,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-06T13:56:36.228Z'
+dateModified: '2016-08-06T14:02:17.408Z'
 title: >-
   The PrimateCast #46: Talking Loris Venom and Conservation with Dr. Anna
   Nekaris
@@ -32,9 +32,9 @@ description: >-
   world's foremost authority on one of the world's least known primates: the
   slow loris, or as she likes to call it, the Little
 inLanguage: en
-starred: false
 sourcePath: >-
   _posts/2016-08-06-the-primatecast-46-talking-loris-venom-and-conservation-wi.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
