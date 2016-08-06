@@ -4,7 +4,7 @@
         <description><![CDATA[Ladies and Gentlemen, Welcome to The PrimateCast]]></description>
         <link>http://theprimatecast.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 00:39:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 13:56:57 GMT</lastBuildDate>
         <atom:link href="http://theprimatecast.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The PrimateCast #35: Nina&#039;s Passion - an Earth Day 2015 special about finding your passion for nature]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/jane-goodall</link>
             <guid isPermaLink="false">646d8634-6ba0-4dac-a915-6bca5928da65</guid>
             <pubDate>Thu, 04 Aug 2016 14:18:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The PrimateCast #46: Talking Loris Venom and Conservation with Dr. Anna Nekaris]]></title>
+            <description><![CDATA[<article><h1>The PrimateCast #46: Talking Loris Venom and Conservation with Dr. Anna Nekaris</h1><p>Our guest in this installment of The PrimateCast is Dr. Anna Nekaris, the world's foremost authority on one of the world's least known primates: the slow loris, or as she likes to call it, the Little</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/74195865c5afa9922c1d02e8eb9a7006/noop.png?input=http%3A%2F%2Fwww.cicasp.pri.kyoto-u.ac.jp%2Fsites%2Fdefault%2Ffiles%2Fnews%2Fann4.png"></article>]]></description>
+            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/anna-nekaris</link>
+            <guid isPermaLink="false">5b0f85c5-9302-40cb-8e9b-5202628501ee</guid>
+            <pubDate>Sat, 06 Aug 2016 13:56:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The PrimateCast #41: An Interview with Dr. Jae Chun Choe]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/lisa-jones-engel</link>
             <guid isPermaLink="false">93ed063e-8004-4414-b6a1-2cd156f08213</guid>
             <pubDate>Thu, 04 Aug 2016 14:32:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The PrimateCast #1: An Interview with Dr. Tetsuro Matsuzawa]]></title>
-            <description><![CDATA[<article><h1>The PrimateCast #1: An Interview with Dr. Tetsuro Matsuzawa</h1><p>In the first interview installment of The PrimateCast, former PRI director and current director of CICASP Dr. Tetsuro Matsuzawa discusses the history of primatology in Japan, from its humble beginning</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/856b01f8-b550-457d-aadc-ae0abc81f59d.jpg"></article>]]></description>
-            <link>http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/Tetsuro%20Matsuzawa</link>
-            <guid isPermaLink="false">7b35f957-27fd-4363-bd37-161e277706c6</guid>
-            <pubDate>Thu, 04 Aug 2016 14:27:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
