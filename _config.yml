@@ -27,6 +27,9 @@ navigation:
   - name: The PrimateCast @ CICASP
     url: 'http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts'
     type: external
+  - name: Introducing The PrimateCast
+    id: b6cc676a-fb9e-45ee-ab73-44da539d2ed1
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca89a89f-ee40-41b0-8895-2ea956193807.png
 title: 'Ladies and Gentlemen, Welcome to The PrimateCast'
