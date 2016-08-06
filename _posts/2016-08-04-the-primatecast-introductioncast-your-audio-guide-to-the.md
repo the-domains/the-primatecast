@@ -25,19 +25,16 @@ description: >-
   features we hope to develop as the series progre
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.cicasp.pri.kyoto-u.ac.jp/news/podcasts/primatecast-introductioncast-your-guide-primatecast-its-hosts-and-its-mission
 title: >-
   The PrimateCast (IntroductionCast): Your audio guide to The PrimateCast, its
   hosts, and its mission
-datePublished: '2016-08-04T13:56:23.719Z'
-dateModified: '2016-08-04T13:02:56.458Z'
+datePublished: '2016-08-06T14:18:11.772Z'
+dateModified: '2016-08-06T14:18:10.741Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-the-primatecast-introductioncast-your-audio-guide-to-the.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: the-primatecast-introductioncast-your-audio-guide-to-the/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
